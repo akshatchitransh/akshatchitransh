@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **React, node.js, Express.js**
+- 💬 Ask me about **AI and Scalable Systems**
 
 - 📫 How to reach me **akshat.chitransh3108@gmail.com**
 
