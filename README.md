@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Akshat Chitransh</h1>
-<h3 align="center">A passionate web- developer from India</h3>
+<h3 align="center">Software engineer working on backend systems, AI infrastructure, and developer tooling.
+</h3>
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+Currently working with production AI agents, observability, and distributed execution workflows.
 
-- 🌱 I’m currently learning **DEVOPS**
+Building
+Multi-agent systems and LLM workflows
+Backend services and distributed systems
+Developer infrastructure and automated testing
+Production debugging and observability
+Stack
+Languages TypeScript · Python · C/C++ · JavaScript
 
-- 💬 Ask me about **AI and Scalable Systems**
+Backend & Systems Node.js · FastAPI · NestJS · REST APIs · WebSockets · Microservices
 
-- 📫 How to reach me **akshat.chitransh3108@gmail.com**
+Data & Infrastructure PostgreSQL · MongoDB · Redis · Docker · GitHub Actions · AWS
+
+AI & Observability LangGraph · Langfuse · OpenRouter · Distributed Tracing
+
+Interested in backend engineering, AI infrastructure, distributed systems, and open source.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
