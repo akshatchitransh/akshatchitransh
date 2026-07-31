@@ -1,34 +1,30 @@
 # Hi, I'm Akshat Chitransh
 
-Software engineer working on backend systems, AI infrastructure, and developer tooling.
+Backend-focused software engineer passionate about building scalable systems, AI-powered applications, and reliable developer tools.
 
-Currently working with production AI agents, observability, and distributed execution workflows.
+I enjoy designing production-ready software, experimenting with modern AI frameworks, and solving complex engineering problems.
 
-## Building
+## What I'm Working On
 
-- Multi-agent systems and LLM workflows
-- Backend services and distributed systems
-- Developer infrastructure and automated testing
-- Production debugging and observability
+- AI agents and autonomous workflows
+- Scalable backend services and APIs
+- Developer tooling and engineering automation
+- Monitoring, logging, and production reliability
 
-## Stack
+## Tech Stack
 
 **Languages**  
 TypeScript · Python · C/C++ · JavaScript
 
-**Backend & Systems**  
-Node.js · FastAPI · NestJS · REST APIs · WebSockets · Microservices
+**Backend**  
+Node.js · Express.js · FastAPI · NestJS · REST APIs · WebSockets
 
-**Data & Infrastructure**  
+**Databases & Infrastructure**  
 PostgreSQL · MongoDB · Redis · Docker · GitHub Actions · AWS
 
-**AI & Observability**  
-LangGraph · Langfuse · OpenRouter · Distributed Tracing
+**AI & Developer Tools**  
+LangGraph · Langfuse · OpenRouter · Vector Databases · Observability
 
 ---
 
-Interested in backend engineering, AI infrastructure, distributed systems, and open source.
-
-## Connect
-
-- Instagram: https://instagram.com/akshatchitransh__
+I'm interested in backend engineering, distributed systems, AI infrastructure, and building products that solve real-world problems.
